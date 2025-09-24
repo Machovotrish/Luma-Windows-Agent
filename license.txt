@@ -1,0 +1,39 @@
+Luma – Windows Agent (Version 1.0)
+Developed by Machovotrish – www.machovotrish.com
+
+This software is based on the MIT-licensed project CursorTouch (Copyright © 2025 CursorTouch).
+All modifications — including the graphical interface, rule-based automation, API integration, executable packaging and user-friendly features — are developed and officially maintained by Machovotrish.
+
+Copyright © 2025 Machovotrish
+
+License for this Version
+
+This modified version is provided free for both personal and commercial use.
+
+Official updates and contributions are reviewed and released solely by Machovotrish to ensure security, stability, and reliability.
+
+Contributions submitted through the public GitHub repository may be included in future official releases.
+
+Disclaimer
+
+Luma is provided “as is.”
+
+While it can perform AI-driven actions on your PC, it is not guaranteed to be 100% accurate.
+
+Luma now includes a full terminal log displaying each step taken by the AI, alongside a brief summary in the GUI, so both technical and non-technical users can monitor its actions.
+
+Do not use Luma for sensitive or critical tasks (e.g., online banking, registry edits, confidential documents).
+
+Machovotrish and CursorTouch are not liable for any damages resulting from use.
+
+Always stay present when Luma is running. The console displays real-time actions. If unexpected behavior occurs, use the Stop button, close the console, or restart the app immediately. Closing the console immediately closes the app.
+
+Original MIT License (CursorTouch)
+
+Copyright © 2025 CursorTouch
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
